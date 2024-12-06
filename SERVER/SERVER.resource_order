@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_chat","order":2,"path":"objects/obj_chat/obj_chat.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"network_player_join","order":1,"path":"scripts/network_player_join/network_player_join.yy",},
+    {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
+  ],
+}
